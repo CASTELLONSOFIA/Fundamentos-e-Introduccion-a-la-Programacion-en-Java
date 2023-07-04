@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GuardianPetreo
+comment1.params=artefacto1\ artefacto2
+comment1.target=GuardianPetreo(Artefacto,\ Artefacto)
+comment2.params=puerta
+comment2.target=boolean\ abrirPuerta(PuertaPiedra)
+numComments=3

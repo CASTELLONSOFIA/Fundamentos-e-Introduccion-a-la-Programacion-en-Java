@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Astral
+comment1.params=poderBase
+comment1.target=Astral(int)
+comment2.params=
+comment2.target=int\ liberarPoder()
+comment3.params=poder
+comment3.target=boolean\ esMistico(int)
+numComments=4

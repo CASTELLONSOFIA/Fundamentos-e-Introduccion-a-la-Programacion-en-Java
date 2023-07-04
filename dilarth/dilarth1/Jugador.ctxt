@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre\ nick\ elemento
+comment1.target=Jugador(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=a
+comment2.target=void\ serAtacado(int)
+comment3.params=m
+comment3.target=void\ cambiarMoneda(int)
+comment4.params=p
+comment4.target=void\ aumentarPV(int)
+numComments=5

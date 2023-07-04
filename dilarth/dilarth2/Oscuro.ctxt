@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Oscuro
+comment1.params=esencia
+comment1.target=Oscuro(int)
+comment2.params=cristal
+comment2.target=void\ amalgamarse(Cristal)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TarjetaJuego
+comment1.params=
+comment1.target=TarjetaJuego()
+comment2.params=vida
+comment2.target=void\ cambiarVida(int)
+comment3.params=puntos
+comment3.target=void\ incrementarPuntos(int)
+numComments=4

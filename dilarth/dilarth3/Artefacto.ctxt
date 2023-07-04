@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Artefacto
+comment1.params=poderBase
+comment1.target=Artefacto(int)
+comment2.params=
+comment2.target=int\ liberarPoder()
+comment3.params=
+comment3.target=int\ getPoderBase()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=jugadores
+comment1.target=Juego(Jugador[])
+comment2.params=
+comment2.target=Juego()
+comment3.params=a
+comment3.target=int\ jugar(int)
+comment4.params=
+comment4.target=char[]\ lanzarDado()
+comment5.params=indiceJugador\ vida
+comment5.target=void\ atacarJugador(int,\ int)
+comment6.params=m
+comment6.target=void\ incrementarMonedas(int)
+comment7.params=p
+comment7.target=void\ incrementarPuntosV(int)
+comment8.params=
+comment8.target=void\ jugar()
+comment9.params=
+comment9.target=Jugador\ getActual()
+numComments=10
